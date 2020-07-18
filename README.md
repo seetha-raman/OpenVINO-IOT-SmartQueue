@@ -14,7 +14,7 @@ The three scenarios you'll be looking at are:
 * Scenario 3: Transportation Sector
 
 **Choose the right hardware proposal**  
-[Right Hardware](choose-the-right-hardware-proposal.pdf)
+[Choose the Right Hardware Proposal PDF Doc](choose-the-right-hardware-proposal.pdf)
 
 **Result**  
 Manufacturing  
