@@ -14,12 +14,14 @@ The three scenarios you'll be looking at are:
 * Scenario 3: Transportation Sector
 
 **Choose the right hardware proposal**  
-![Right Hardware](choose-the-right-hardware-proposal.pdf)
+[Right Hardware](choose-the-right-hardware-proposal.pdf)
 
 **Result**  
 Manufacturing  
 ![Manufacturing](results/manufacturing-result.png)  
+
 Retail  
 ![Retail](results/retail-result.png)  
+
 Transportation  
 ![Transportation](results/transportation-result.png)  
